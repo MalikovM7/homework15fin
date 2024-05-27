@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vuqar\\Desktop\\Solutions\\WebIntroEmpty\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5D7E4EE7-8995-4ABA-A731-47CF9BEBDC38}|WebIntroEmpty.csproj|c:\\users\\vuqar\\desktop\\solutions\\webintroempty\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5D7E4EE7-8995-4ABA-A731-47CF9BEBDC38}|WebIntroEmpty.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D7E4EE7-8995-4ABA-A731-47CF9BEBDC38}|WebIntroEmpty.csproj|c:\\users\\vuqar\\desktop\\solutions\\webintroempty\\views\\countries\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5D7E4EE7-8995-4ABA-A731-47CF9BEBDC38}|WebIntroEmpty.csproj|solutionrelative:views\\countries\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D7E4EE7-8995-4ABA-A731-47CF9BEBDC38}|WebIntroEmpty.csproj|c:\\users\\vuqar\\desktop\\solutions\\webintroempty\\views\\countries\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5D7E4EE7-8995-4ABA-A731-47CF9BEBDC38}|WebIntroEmpty.csproj|solutionrelative:views\\countries\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D7E4EE7-8995-4ABA-A731-47CF9BEBDC38}|WebIntroEmpty.csproj|c:\\users\\vuqar\\desktop\\solutions\\webintroempty\\views\\countries\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5D7E4EE7-8995-4ABA-A731-47CF9BEBDC38}|WebIntroEmpty.csproj|solutionrelative:views\\countries\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D7E4EE7-8995-4ABA-A731-47CF9BEBDC38}|WebIntroEmpty.csproj|c:\\users\\vuqar\\desktop\\solutions\\webintroempty\\views\\countries\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5D7E4EE7-8995-4ABA-A731-47CF9BEBDC38}|WebIntroEmpty.csproj|solutionrelative:views\\countries\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D7E4EE7-8995-4ABA-A731-47CF9BEBDC38}|WebIntroEmpty.csproj|c:\\users\\vuqar\\desktop\\solutions\\webintroempty\\controllers\\countriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D7E4EE7-8995-4ABA-A731-47CF9BEBDC38}|WebIntroEmpty.csproj|solutionrelative:controllers\\countriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\vuqar\\Desktop\\Solutions\\WebIntroEmpty\\Views\\Countries\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Countries\\Details.cshtml",
+              "ToolTip": "C:\\Users\\vuqar\\Desktop\\Solutions\\WebIntroEmpty\\Views\\Countries\\Details.cshtml",
+              "RelativeToolTip": "Views\\Countries\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T21:34:34.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\vuqar\\Desktop\\Solutions\\WebIntroEmpty\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\vuqar\\Desktop\\Solutions\\WebIntroEmpty\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T21:33:50.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\vuqar\\Desktop\\Solutions\\WebIntroEmpty\\Views\\Countries\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Countries\\Index.cshtml",
+              "ToolTip": "C:\\Users\\vuqar\\Desktop\\Solutions\\WebIntroEmpty\\Views\\Countries\\Index.cshtml",
+              "RelativeToolTip": "Views\\Countries\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T21:30:00.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\vuqar\\Desktop\\Solutions\\WebIntroEmpty\\Views\\Countries\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Countries\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\vuqar\\Desktop\\Solutions\\WebIntroEmpty\\Views\\Countries\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Countries\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T21:28:31.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\vuqar\\Desktop\\Solutions\\WebIntroEmpty\\Views\\Countries\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Countries\\Create.cshtml",
+              "ToolTip": "C:\\Users\\vuqar\\Desktop\\Solutions\\WebIntroEmpty\\Views\\Countries\\Create.cshtml",
+              "RelativeToolTip": "Views\\Countries\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T21:27:54.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CountriesController.cs",
+              "DocumentMoniker": "C:\\Users\\vuqar\\Desktop\\Solutions\\WebIntroEmpty\\Controllers\\CountriesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CountriesController.cs",
+              "ToolTip": "C:\\Users\\vuqar\\Desktop\\Solutions\\WebIntroEmpty\\Controllers\\CountriesController.cs",
+              "RelativeToolTip": "Controllers\\CountriesController.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAswEYAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T20:47:43.534Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
